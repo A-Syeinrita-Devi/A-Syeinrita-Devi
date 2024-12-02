@@ -1,8 +1,8 @@
 # Hi, I'm Syeinrita Devi Anbealagan👋
 
-🎓 **Master's in Data Science** | 💼 **Aspiring Data Scientist** | 📊 **Passionate about Data Analytics, AI, and Continuous Learning**
+🎓 **Master's in Data Science (CGPA: 4.00)** | 💼 **Aspiring Data Scientist** | 📊 **Passionate about Data Analytics, AI, and Continuous Learning**
 
-I'm a fresh graduate currently building a portfolio of projects to enhance my skills, explore new technologies, and secure a position in the data science and analytics industry. Each project is a step toward improving my expertise in data manipulation, machine learning, and visualization.
+I'm a data science masters fresh graduate currently building a portfolio of projects to enhance my skills, explore new technologies, and secure a position in the data science and analytics industry. Each project is a step toward improving my expertise in data manipulation, machine learning, and visualization.
 
 ---
 
