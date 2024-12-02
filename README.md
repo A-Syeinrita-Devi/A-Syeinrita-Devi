@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Syeinrita Devi Anbealagan👋
 
-<!--
-**A-Syeinrita-Devi/A-Syeinrita-Devi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's in Data Science** | 💼 **Aspiring Data Scientist** | 📊 **Passionate about Data Analytics, AI, and Continuous Learning**
 
-Here are some ideas to get you started:
+I'm a fresh graduate currently building a portfolio of projects to enhance my skills, explore new technologies, and secure a position in the data science and analytics industry. Each project is a step toward improving my expertise in data manipulation, machine learning, and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me
+📧 [Gmail](mailto:syeinritadevi@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/a-syeinrita-devi/)
+
+---
+
+## 🛠️ Tech Stack
+Here are some of the technologies and tools I frequently use in my projects:
+
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+- **Data Science Tools**:  
+  ![RapidMiner](https://img.shields.io/badge/RapidMiner-FF8C00?style=for-the-badge&logo=rapidminer&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- **Data Visualization**:  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+
+
